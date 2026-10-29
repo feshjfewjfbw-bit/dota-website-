@@ -1,0 +1,84 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Anti-Mage",
+      "lore": "Once a lowly street urchin of the empire, Anti-Mage discovered a mystical artifact that granted him incredible power. Driven by an insatiable hunger for magic, he now seeks to destroy all spellcasters and uncover the secrets of the ancient arts.",
+      "primaryAttr": "agi",
+      "roles": ["Carry", "Escape"],
+      "abilities": ["Mana Break", "Blink", "Spell Shield", "Mana Void"]
+    },
+    {
+      "id": 2,
+      "name": "Sven",
+      "lore": "Sven was once a simple blacksmith's apprentice who found a legendary sword of immense power. With his massive strength and unwavering courage, he became a champion of the people, smashing his foes with devastating blows and inspiring allies with his heroic presence.",
+      "primaryAttr": "str",
+      "roles": ["Offlane", "Durable"],
+      "abilities": ["Storm Hammer", "God Strength", "Warcry", "Silver Edge"]
+    },
+    {
+      "id": 3,
+      "name": "Dragon Knight",
+      "lore": "A warrior of ancient lineage, Dragon Knight can transform into a mighty dragon, gaining immense power and flight. He guards the sacred relics of his people and unleashes fiery breath upon those who dare oppose him.",
+      "primaryAttr": "str",
+      "roles": ["Fighter", "Carry"],
+      "abilities": ["Dragon Form", "Fire Breath", "Dragon's Blood", "Splash Damage"]
+    },
+    {
+      "id": 4,
+      "name": "Puck",
+      "lore": "A mischievous elemental entity, Puck travels the realms casting enigmatic spells and confounding enemies with its whimsical nature. Its origin is shrouded in mystery, but its ability to manipulate time and space is unmatched.",
+      "primaryAttr": "int",
+      "roles": ["Support", "Escape"],
+      "abilities": ["Waning Rift", "Illusory Orb", "Phase Shift", "Dreamscape"]
+    },
+    {
+      "id": 5,
+      "name": "Crystal Maiden",
+      "lore": "A tragic figure born of icy lineage, Crystal Maiden wanders the frozen wastes seeking redemption. Her melodic voice can freeze enemies in their tracks, and she calls upon the powers of the frozen deep to aid her allies.",
+      "primaryAttr": "int",
+      "roles": ["Support", "Nuker"],
+      "abilities": ["Crystal Nova", "Frostbite", "Freezing Field", "Arcane Aura"]
+    },
+    {
+      "id": 6,
+      "name": "Shadow Fiend",
+      "lore": "A creature of pure shadow, Shadow Fiend feeds on the souls of the fallen to grow in power. He wanders the battlefield seeking victims, for each soul consumed makes his ultimate demise more devastating.",
+      "primaryAttr": "agi",
+      "roles": ["Mid", "Carry"],
+      "abilities": ["Presence of the Dark Lord", "Soul Race", "Requiem of the Damned"]
+    },
+    {
+      "id": 7,
+      "name": "Pudge",
+      "lore": "A hulking monster of the sewers, Pudge lures unsuspecting victims with his meat hook and drags them into the darkness. His appetite is insatiable, and those who fall victim to his grasp are never seen again.",
+      "primaryAttr": "str",
+      "roles": ["Offlane", "Initiator"],
+      "abilities": ["Meat Hook", "Dismember", "Rot", "Flesh Heap"]
+    },
+    {
+      "id": 8,
+      "name": "Luna",
+      "lore": "The Moon Rider, Luna wields the power of the moon to smite her enemies. Born from the celestial realm, she draws strength from the night and unleashes devastating lunar energy upon those who oppose her.",
+      "primaryAttr": "agi",
+      "roles": ["Carry", "Pusher"],
+      "abilities": ["Lucent Beam", "Moon Glaives", "Eclipse", "Impetus"]
+    },
+    {
+      "id": 9,
+      "name": "Shadow Shaman",
+      "lore": "An ancient shadow shaman, he draws power from the darkness of the wild. His spells can cripple enemies with poison and summon destructive spirits to do his bidding, making him a feared spellcaster on the battlefield.",
+      "primaryAttr": "int",
+      "roles": ["Support", "Nuker"],
+      "abilities": ["Voodoo Restoration", "Hex", "Mass Serpent Ward",]
+    },
+    {
+      "id": 10,
+      "name": "Slardar",
+      "lore": "A formidable warrior of the deep, Slardar possesses skin tough as scales and the ability to traverse water with ease. He enforces the laws of the ocean depths, dragging enemies into the abyss with his powerful tail.",
+      "primaryAttr": "str",
+      "roles": ["Offlane", "Durable"],
+      "abilities": ["Aqua Shield", "Corrosive Haze", "Slithereen Crush", "Guardian Sprint"]
+    }
+  ]
+}
